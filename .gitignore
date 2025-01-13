@@ -41,3 +41,11 @@ cookies.txt
 *.webm
 *.m4a
 *.part
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Icon generation
+icon.ico

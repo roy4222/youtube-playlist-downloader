@@ -20,6 +20,17 @@
 
 ## 快速開始
 
+### 下載和安裝
+
+#### 方法一：直接使用執行檔（推薦）
+
+1. 從 [Releases](../../releases) 頁面下載最新的 `YouTube播放清單下載器.exe`
+2. 下載並安裝 [FFmpeg](https://ffmpeg.org/download.html)
+3. 下載並安裝 [aria2](https://github.com/aria2/aria2/releases)
+4. 雙擊執行 `YouTube播放清單下載器.exe`
+
+#### 方法二：從原始碼運行
+
 ### 安裝
 
 1. 克隆專案：
