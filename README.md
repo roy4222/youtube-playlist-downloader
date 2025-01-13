@@ -6,7 +6,6 @@
 
 一個簡單但功能強大的 YouTube 播放清單下載工具，可以將播放清單中的影片轉換為 MP3 格式。
 
-![Screenshot](screenshots/main.png)
 
 ## 功能特點
 
